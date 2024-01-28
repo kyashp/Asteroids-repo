@@ -2,7 +2,6 @@
 
 ## Introduction
 Asteroids is my second game using SDL2 with C++. I explored fonts using SDL_ttf and used the random library to render stars continuosly to make it look like they are blinking.
-Pardon the stack of files uploaded, for future projects I will learn to use gitignore and organise the files properly.
 
 ## Main page
 
